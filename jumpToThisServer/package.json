@@ -1,0 +1,16 @@
+{
+  "name": "jumptothattest",
+  "version": "1.0.0",
+  "description": "context based stream",
+  "main": "main.js",
+  "dependencies": {
+    "@google-cloud/video-intelligence": "^2.6.4",
+    "node-fetch": "^2.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ashwani",
+  "license": "ISC"
+}
