@@ -25,3 +25,6 @@ An important usecase where we are thinking of moving this project forward is in 
 
 It's the one stop solution to all the problems.
 So what are y'all waiting for.
+
+# Devpost
+Refer https://devpost.com/software/jumptothis for more info!
