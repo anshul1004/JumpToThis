@@ -4,7 +4,7 @@
   "description": "context based stream",
   "main": "main.js",
   "dependencies": {
-    "@google-cloud/video-intelligence": "^2.6.4",
+    "@google-cloud/video-intelligence": "^4.2.2",
     "node-fetch": "^2.6.0"
   },
   "devDependencies": {},
